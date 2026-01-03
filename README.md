@@ -1,0 +1,1 @@
+# Deep-Learning-Based-Detecting-Nutrient-Deficiencies-Detection-in-Medicinal-Plants
